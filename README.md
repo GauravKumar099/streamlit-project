@@ -1,2 +1,2 @@
-# steamlit-project
-steamlit project for 4th sem student
+# streamlit-project
+streamlit project for 4th sem student
